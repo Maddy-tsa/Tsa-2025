@@ -1,0 +1,32 @@
+* {
+    background-color: linen;
+}
+.center-text {
+    text-align: center;
+}
+img {
+    border: 5px #588061;
+}
+
+img {
+    border: 5px #588061;
+}
+ h1 {
+    text-align: center;
+    font: 30px bold white;
+    border: 3px solid #869F77;
+    background-color: #869F77;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+ }
+
+ h2 {
+    text-align: center;
+    font: 20px bold white;
+    border: 3px solid #869F77;
+    background-color: #869F77;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+ }
